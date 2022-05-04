@@ -3,8 +3,7 @@ Mysql database
 Installation
 Mysql
 
-Go to folder -> src/Mysql/ where you will the Script for the creation of the Database and the Stored procedures
-NodeJs
+You need to create a database then
 
     npm install
 ENV
